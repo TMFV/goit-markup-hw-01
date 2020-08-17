@@ -1,7 +1,6 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
 # Denys Tymofieiev
 
-# Домашнее задание 1
+# Домашнее задание 2
 
-<a href="https://tmfv.github.io/goit-markup-hw-01"> https://tmfv.github.io/goit-markup-hw-01 </a>
