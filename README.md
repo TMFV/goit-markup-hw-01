@@ -1,6 +1,6 @@
-# goit-markup-hw-02
+# goit-markup-hw-01
 
 # Denys Tymofieiev
 
-# Домашнее задание 2
+# Домашнее задание 1
 
